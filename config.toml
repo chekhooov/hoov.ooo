@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://chekhooov.github.io/hoov.ooo'
 languageCode = 'en-us'
 title = 'hoov'
 theme = 'hugo-tania'

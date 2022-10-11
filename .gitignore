@@ -2,5 +2,5 @@ public/
 resources/
 .hugo_build.lock
 
-# Editor directories and files
+# VS Code files for those working on multiple tools
 .vscode/*
