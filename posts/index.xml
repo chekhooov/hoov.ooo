@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on hoov</title><link>https://chekhooov.github.io/hoov.ooo/posts/</link><description>Recent content in Posts on hoov</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 11 Oct 2022 12:30:13 +0800</lastBuildDate><atom:link href="https://chekhooov.github.io/hoov.ooo/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>CS61BYoG, A Random Map Generator</title><link>https://chekhooov.github.io/hoov.ooo/posts/cs61b-project-2/</link><pubDate>Tue, 11 Oct 2022 12:30:13 +0800</pubDate><guid>https://chekhooov.github.io/hoov.ooo/posts/cs61b-project-2/</guid><description>Introduction lorem, die
-Overview lorem
+Overview lorem, test
 Code Structure lorem
 Phase 1: World Generation lorem
 public class MapGenerator extends StageBuilder { // Fields private static final int numRoomTries = 50; private static final int extraConnectorChance = 40; private static final int roomExtraSize = 0; private static final int windingPercent = 60; private final int width; private final int height; private final Random r; private TETile[][] _map; private List&amp;lt;Room&amp;gt; _rooms; private Player _player; .</description></item></channel></rss>
