@@ -14,7 +14,7 @@ lorem, test
 
 ## Code Structure
 
-lorem
+lorem, test
 
 ## Phase 1: World Generation
 
