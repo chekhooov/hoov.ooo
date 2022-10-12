@@ -18,7 +18,7 @@ lorem, test
 
 ## Phase 1: World Generation
 
-lorem
+lorem, not more test
 
 ```java
 public class MapGenerator extends StageBuilder {
